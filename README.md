@@ -1,4 +1,4 @@
-# Chess-Engine
+# Chess Engine
  Simple chess engine built in C++ using negamax with various features and optimizations.
  
  Current features and optimizations:
