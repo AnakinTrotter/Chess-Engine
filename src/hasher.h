@@ -1,3 +1,6 @@
+// Anakin Trotter
+// 6/16/2021
+
 #include <random>
 
 #include "thc.h"
