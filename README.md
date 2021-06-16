@@ -10,5 +10,6 @@
  * quiescence search
 
 Todo:
+* improved evaluation
 * killer move heuristic
 * parallelism
